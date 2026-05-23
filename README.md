@@ -1,2 +1,3 @@
 # Ejemplo-juego
 Es un juego ficticio para usar github y desktop.github
+Repo remoto en github, este nuevo comentario sera la actualizacion del README.md
