@@ -1,3 +1,3 @@
-# Ejemplo-juego
-Es un juego ficticio para usar github y desktop.github
-Repo remoto en github, este nuevo comentario sera la actualizacion del README.md
+# Talento Tech Unity 2D 2026 / 26136 la comision  Miercoles 19 a 21 hs
+Tutoría: Ber Schargorodsky / ber.schargorodsky@bue.edu.ar
+Instructor:  Nicki Bambacar / nicki.bambacar@bue.edu.ar 
